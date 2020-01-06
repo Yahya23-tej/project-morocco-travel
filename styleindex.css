@@ -1,0 +1,133 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.header{
+	background: url(az.png) center no-repeat;
+	min-height: 750px;
+	background-size: cover;
+}
+.icon{
+display: inline;
+margin-left: 10%;
+margin-top: -5%;
+}
+.fa-envelope,.fa-phone{
+	color: black;
+	padding-left: 70px;
+	padding-top: 20px;
+	display: inline;
+
+}
+ul{
+	list-style: none;
+	margin-left: 700px;
+	display: inline;
+
+
+
+}
+ul li{
+	float: left;
+	margin: 44px;
+	color: black;
+	margin-top: -3%;
+	display: inline;
+	margin-left: -5%
+	
+}
+h1{
+	margin-left: 130px;
+	color: #fff;
+	margin-bottom:5px;
+	font-size: 52px;
+}
+.titreheader{
+	padding-top: 120px
+
+}
+
+p{
+	margin-left:130px;
+	color: #fff;
+	font-size: 23px;
+	padding-top: 53px;
+
+}
+button{
+	width: 120px;
+	height: 44px;
+	margin-left:185px;
+	margin-top:70px;
+	border-radius: 24px;
+}
+.nav{
+	margin-left: 60%;
+	padding: -20%;
+}
+.photo{
+	display: flex;
+	margin-top: -10%;
+    /*border: 2px solid black;*/
+    width: 86.5%;
+    height: 375px;
+    margin-left: 6%;
+}
+.foot{
+	display: flex;
+	width: auto;
+	height: 300px;
+	/*border: 2px solid black;*/
+	margin-top: 40%;
+	background-color: #3D575A;
+
+
+}
+.azer{
+	/*border: 1px solid white;*/
+	flex-basis: 35%;
+}
+.med{
+/*border: 1px solid white;*/
+flex-basis: 25%;
+
+
+}
+.aqw{
+	/*border: 1px solid white;*/
+	flex-basis: 40%;
+}
+.san{
+	text-align: center;
+	margin-top: 30px;
+text-align: justify;
+margin-left: 35%;
+}
+.san a{
+	text-decoration: none;
+	color: white;
+	font-size: 16px;
+
+}
+.mede{
+	display: flex;
+	/*border: 1px solid black;*/
+	width: auto;
+	height: 44px;
+	background-color: #688095;
+}
+.azes{
+	margin-left: 12%;
+	margin-top: 0.5%;
+	flex-basis: 50%;
+	color: white;
+}
+.ess{
+	margin-top: 0.5%;
+	flex-basis: 50%;
+	margin-left: 25%;
+	color: white;
+}
